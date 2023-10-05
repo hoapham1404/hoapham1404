@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 ![My GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=hoapham2k2&theme=radical)
 
+
 ## My GitHub trophies
 
 ![My GitHub trophies](https://github-profile-trophy.vercel.app/?username=hoapham2k2&theme=radical)
+
