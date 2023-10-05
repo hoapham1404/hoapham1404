@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C#** and **ASP.NET**. However, I'm also interested in **Java** and **TypeScript**. My goal is to become a **Full Stack Developer**.
 
-- 📫 How to reach me: [Facebook](https://www.facebook.com/hoapham.Z),  [LinkedIn](https://www.linkedin.com/in/hoapham2k2/), [Email](mailto:phamquanghoaz@gmail.com)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/hoapham.Z),  [LinkedIn](https://www.linkedin.com/in/phamquanghoa/), [Email](mailto:phamquanghoaz@gmail.com)
 
 - ⚡ Fun fact: I'm a **Vietnamese**.
 
