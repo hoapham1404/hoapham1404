@@ -25,19 +25,47 @@ Here are some ideas to get you started:
 
 ## My GitHub stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hoapham2k2&show_icons=true&theme=radical)
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoapham2k2&theme=radical&show_icons=true"/>
+</div>
+
 
 
 ## My top languages
 
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham2k2&layout=compact&theme=radical)
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham2k2&theme=radical&layout=compact" style="width: 75%; height: auto;"/>
+
+</div>
+
 
 ## My GitHub streak
 
-![My GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=hoapham2k2&theme=radical)
-
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoapham2k2&theme=radical"/>
+</div>
 
 ## My GitHub trophies
-
-![My GitHub trophies](https://github-profile-trophy.vercel.app/?username=hoapham2k2&theme=radical)
-
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+">
+  <img src="https://github-profile-trophy.vercel.app/?username=hoapham2k2&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+</div>
