@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me 👨‍💻
 
-- 🌱 I’m currently learning **C#** and **ASP.NET**. However, I'm also interested in **Java** and **TypeScript**. My goal is to become a **Full Stack Developer**.
+- 🌱 I’m currently learning **C#** and **ASP.NET**. However, I'm also interested in **Golang** and **TypeScript**. My goal is to become a **Full Stack Developer**.
 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/hoapham.Z),  [LinkedIn](https://www.linkedin.com/in/phamquanghoa/), [Email](mailto:phamquanghoaz@gmail.com)
 
