@@ -1,5 +1,5 @@
+- Thanks all of you: ![Visitor Count](https://profile-counter.glitch.me/hoapham2k2/count.svg)
 # Welcome to my GitHub profile! 👋 
-![Visitor Count](https://profile-counter.glitch.me/hoapham2k2/count.svg)
 ## About me 👨‍💻
 
 - 🌱 I’m currently learning **C#** and **ASP.NET**. However, I'm also interested in **Golang** and **TypeScript**. My goal is to become a **Full Stack Developer**.
