@@ -37,8 +37,8 @@
 
 ### ** I'm still learning and improving my skills. **
 
-### Thanks for visiting my profile! 🤗
+### Thanks for visiting my profile, everything gonna be okay! ╰(_°▽°_)╯
 
-![Say goodbye gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYydnZrem1wcHNqeHVsMDhhbDVlNG1hcHZoc3Z6aDNjbGh4dTVrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VelWewgR6CpNK/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYydnZrem1wcHNqeHVsMDhhbDVlNG1hcHZoc3Z6aDNjbGh4dTVrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VelWewgR6CpNK/giphy.gif" alt="say goodbye gif" width="75%">
 
 </div>
