@@ -32,3 +32,13 @@
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+<div align="center">
+
+### ** I'm still learning and improving my skills. **
+
+### Thanks for visiting my profile! 🤗
+
+![Say goodbye gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYydnZrem1wcHNqeHVsMDhhbDVlNG1hcHZoc3Z6aDNjbGh4dTVrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VelWewgR6CpNK/giphy.gif)
+
+</div>
