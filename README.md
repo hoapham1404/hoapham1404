@@ -8,11 +8,7 @@
 
 # Heyyyyyy 👋
 
-- I'm **Pham Quang Hoa**, **Undergraduate student** at <a href="https://uit.edu.vn/">
-  <img src="https://en.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_Web_Transparent.png" alt="University of Information Technology" width="12%" style="padding:0 10px" href="https://en.uit.edu.vn/"/></a>
-- Also, i (**used to**) work as a **Software Engineer Intern** at <a href="https://www.bosch-softwaretechnologies.com/en/locations/vietnam/about-us/">
-  <img src="https://i1-sohoa.vnecdn.net/2023/09/06/BGSWSignet-1693961144-3843-1693961148.png?w=500&h=0&q=100&dpr=2&fit=crop&s=WwH3dN0ZPIGF6Ztt3TJDPw" alt="Bosch Global Software Technologies Vietnam" width="12%" style="padding:0 10px" />
-  </a>
+- I'm **Pham Quang Hoa**
 - Now, I'm jobless and looking for a new job. If you have any job opportunities, please let me know. I'm willing to learn and work hard. 😊
 
 ## Feel free to contact me 📫
