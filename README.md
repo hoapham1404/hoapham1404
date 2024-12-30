@@ -34,6 +34,5 @@
 ## My top languages 🌟
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham2k2&layout=compact&theme=radical)
 
-## My LeeetCode profile 🚀
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/hoapham2k2/)
-![LeetCodeStats](https://leetcard.jacoblin.cool/20520995?theme=dark&font=Roboto)
+## My LeeetCode 🚀
+[![LeetCodeStats](https://leetcard.jacoblin.cool/20520995?theme=dark&font=Roboto&icons=true)](https://leetcode.com/20520995/)
