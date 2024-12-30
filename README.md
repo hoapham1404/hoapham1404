@@ -35,4 +35,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham2k2&layout=compact&theme=radical)
 
 ## My LeeetCode 🚀
-[![LeetCodeStats](https://leetcard.jacoblin.cool/20520995?theme=dark&font=Roboto&icons=true)](https://leetcode.com/20520995/)
+[![LeetCodeStats](https://leetcard.jacoblin.cool/20520995?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/20520995/)
