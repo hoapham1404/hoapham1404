@@ -32,6 +32,3 @@
 
 ## My top languages 🌟
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham2k2&layout=compact&theme=radical)
-
-## My contribution graph 📈
-![Hoapham2k2's GitHub stats](https://activity-graph.herokuapp.com/graph?username=hoapham2k2&theme=react-dark)
