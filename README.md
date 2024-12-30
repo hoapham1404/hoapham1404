@@ -6,7 +6,7 @@
 
 </div>
 
-# About me 👋
+## About me 👋
 - I'm **Pham Quang Hoa**
 - I recently graduated from **University of Information Technology, Vietnam National University - Ho Chi Minh City** 🎓
 - Also, I worked as a **Software Engineer** at Bosch Global Software Technologies Vietnam 🚀 
