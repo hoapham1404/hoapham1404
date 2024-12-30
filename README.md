@@ -27,8 +27,13 @@
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-## My stats 📊
+## My stats 
 ![Hoapham2k2's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoapham2k2&show_icons=true&theme=radical)
+
 
 ## My top languages 🌟
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham2k2&layout=compact&theme=radical)
+
+## My LeeetCode profile 🚀
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/hoapham2k2/)
+![LeetCodeStats](https://leetcard.jacoblin.cool/20520995?theme=dark&font=Roboto)
