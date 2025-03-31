@@ -9,7 +9,7 @@
 ## About me 👋
 
 <div style="display:flex; flex-direction: row; align-items: center; gap:20px">
-    <img src="goku.gif" alt="goku" style="width: 50%">
+    <img src="goku.gif" alt="goku" style="width: 300px; height: 300px">
     <p> I'm <strong>Pham Quang Hoa</strong> - A software engineer!</p>
 </div>
 
