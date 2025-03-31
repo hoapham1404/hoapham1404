@@ -7,10 +7,7 @@
 </div>
 
 ## About me 👋
-- I'm **Pham Quang Hoa**
-- I recently graduated from **University of Information Technology, Vietnam National University - Ho Chi Minh City** 🎓
-- Also, I worked as a **Software Engineer** at Bosch Global Software Technologies Vietnam 🚀 
-- Now I'm seeking for a new opportunity to work as a **Software Engineer** or **Full Stack Developer** 🌟
+- I'm **Pham Quang Hoa** - A software engineer!
 
 ## Feel free to contact me 📫
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamquanghoa/)
@@ -28,7 +25,7 @@
 [![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ## My stats 
-![hoapham1404's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoapham2k2&show_icons=true&theme=radical)
+![hoapham1404's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoapham1404&show_icons=true&theme=radical)
 
 
 ## My top languages 🌟
