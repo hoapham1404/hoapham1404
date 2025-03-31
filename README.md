@@ -7,10 +7,10 @@
 </div>
 
 ## About me 👋
-## About me 👋
-<div align="center">
-  <img src="goku.gif" alt="goku" style="vertical-align: middle; margin-right: 10px;" height="200">
-  <span style="vertical-align: middle;">I'm <strong>Pham Quang Hoa</strong> - A software engineer!</span>
+
+<div style="display:flex;flex-direction:row;justify-content:center;">
+    <img src="goku.gif" alt="goku" style="width: 50%"  style="margin: 0">
+    <span  style="margin: 0"> I'm <strong>Pham Quang Hoa</strong> - A software engineer!</span>
 </div>
 
 ## Feel free to contact me 📫
