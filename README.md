@@ -2,9 +2,7 @@
 
 ### Welcome all visitors to my profile! 🎉
 
-<div style="padding-top:87.629%;position:relative;"><iframe src="https://gifer.com/embed/ZMQt" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-
-![Visitor Count](https://profile-counter.glitch.me/hoapham1404/count.svg)
+<iframe src="https://gifer.com/embed/ZMQt" width=480 height=420.619 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 </div>
 
