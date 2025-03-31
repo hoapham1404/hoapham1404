@@ -2,7 +2,7 @@
 
 ### Welcome all visitors to my profile! 🎉
 
-![Visitor Count](https://profile-counter.glitch.me/hoapham2k2/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hoapham1404/count.svg)
 
 </div>
 
@@ -28,11 +28,11 @@
 [![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ## My stats 
-![Hoapham2k2's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoapham2k2&show_icons=true&theme=radical)
+![hoapham1404's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoapham2k2&show_icons=true&theme=radical)
 
 
 ## My top languages 🌟
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham2k2&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham1404&layout=compact&theme=radical)
 
 ## My LeeetCode 🚀
 [![LeetCodeStats](https://leetcard.jacoblin.cool/20520995?theme=transparent&ext=heatmap)](https://leetcode.com/20520995/)
