@@ -7,12 +7,12 @@
 </div>
 
 ## About me 👋
-
-<div style="display:flex; flex-direction: row; align-items: center; gap:20px">
-    <img src="goku.gif" alt="goku" style="width: 300px; height: 300px">
-    <p style="display: inline-block"> I'm <strong>Pham Quang Hoa</strong> - A software engineer!</p>
+<div align="left">
+<img src="goku.gif" alt="goku">
 </div>
-
+<div align="center">
+<p> I'm <strong>Pham Quang Hoa</strong> - A software engineer!</p>
+<div>
 ## Feel free to contact me 📫
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamquanghoa/)
