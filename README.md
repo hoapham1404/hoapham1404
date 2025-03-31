@@ -10,7 +10,7 @@
 
 <div style="display:flex; flex-direction: row; align-items: center; gap:20px">
     <img src="goku.gif" alt="goku" style="width: 300px; height: 300px">
-    <p> I'm <strong>Pham Quang Hoa</strong> - A software engineer!</p>
+    <p style="display: inline-block"> I'm <strong>Pham Quang Hoa</strong> - A software engineer!</p>
 </div>
 
 ## Feel free to contact me 📫
