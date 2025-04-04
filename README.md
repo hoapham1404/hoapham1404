@@ -7,9 +7,9 @@
 </div>
 
 ## About Me 💫
-| | |
-|---|---|
-| <div align="left">**I'm Pham Quang Hoa**<br><br>🚀 Software Engineer passionate about building scalable applications<br>🌱 Currently exploring Cloud Native technologies<br>💡 Love to solve problems and learn new technologies</div> | <img src="goku.gif" alt="goku" width="200" height="200"> |
+|||
+|-|-|
+| <h3>I'm <stronjkjkg>Pham Quang Hoa</strong></h3> <p>🚀 Software Engineer passionate about building scalable applications</p> <p>🌱 Currently exploring Cloud Native technologies</p> <p>💡 Love to solve problems and learn new technologies</p> | <img src="goku.gif" alt="goku" width="200" height="200"> |
 
 
 ## Connect with Me 🤝
