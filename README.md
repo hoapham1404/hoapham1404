@@ -7,23 +7,15 @@
 </div>
 
 ## About Me 💫
-|||
-|-|-|
-| <h3>I'm <stronjkjkg>Pham Quang Hoa</strong></h3> <p>🚀 Software Engineer passionate about building scalable applications</p> <p>🌱 Currently exploring Cloud Native technologies</p> <p>💡 Love to solve problems and learn new technologies</p> | <img src="goku.gif" alt="goku" width="200" height="200"> |
-
 <table>
-<thead>
 <tr>
-<th>Name</th>
-<th>Value</th>
+<td>
+<h3>I'm <stronjkjkg>Pham Quang Hoa</strong></h3> <p>🚀 Software Engineer passionate about building scalable applications</p> <p>🌱 Currently exploring Cloud Native technologies</p> <p>💡 Love to solve problems and learn new technologies</p>
+</td>
+<td>
+<img src="goku.gif" alt="goku" width="200" height="200">
+</td>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td>Name</td>
-<td>Value</td>
-</tr>
-</tbody>
 </table>
 
 ## Connect with Me 🤝
