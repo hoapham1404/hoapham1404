@@ -7,12 +7,12 @@
 </div>
 
 ## About Me 💫
-<table>
+<table style="border: none;">
 <tr>
-<td>
-<h3>I'm <stronjkjkg>Pham Quang Hoa</strong></h3> <p>🚀 Software Engineer passionate about building scalable applications</p> <p>🌱 Currently exploring Cloud Native technologies</p> <p>💡 Love to solve problems and learn new technologies</p>
+<td style="border: none;">
+<h3>I'm <strong>Pham Quang Hoa</strong></h3> <p>🚀 Software Engineer passionate about building scalable applications</p> <p>🌱 Currently exploring Cloud Native technologies</p> <p>💡 Love to solve problems and learn new technologies</p>
 </td>
-<td>
+<td style="border: none;">
 <img src="goku.gif" alt="goku" width="200" height="200">
 </td>
 </tr>
