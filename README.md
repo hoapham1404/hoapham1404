@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 320 400" width="320" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -62,7 +62,7 @@
 				}
 
 				h1 {
-					font-size: 50px;
+					font-size: 32px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
@@ -76,7 +76,7 @@
 				}
 
 				p {
-					font-size: 20px;
+					font-size: 16px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
