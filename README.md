@@ -8,4 +8,7 @@
 <img src="goku.gif" alt="goku" width="200" height="200">
 </td>
 </tr>
+<tr>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham1404&layout=compact&&langs_count=8"/>
+</tr>
 </table>
