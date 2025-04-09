@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img alt="Top langs" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham1404&layout=compact&langs_count=8"/>
+      <img alt="Top langs" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham1404&layout=compact&langs_count=8"/>
     </td>
   </tr>
 </table>
