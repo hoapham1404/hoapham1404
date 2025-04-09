@@ -2,7 +2,6 @@
 <tr>
 <td>
 <h3>I'm <strong>Pham Quang Hoa</strong></h3> 
-<p>🚀 Software Engineer passionate about building scalable applications</p>
 <p>💡 Love to solve problems and learn new technologies</p>
 </td>
 <td>
