@@ -9,6 +9,8 @@
 </td>
 </tr>
 <tr>
+  <td>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoapham1404&layout=compact&&langs_count=8"/>
+  </td>
 </tr>
 </table>
